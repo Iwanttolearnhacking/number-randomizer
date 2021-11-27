@@ -10,6 +10,6 @@ result = "randomnumberlist" < "zahl"
 if result:
     #undo = del print(
     #del (
-    print("Es wurden zuviele Zufallszahlen erstellt")
+    print("Es wurden zu viele Zufallszahlen erstellt")
 else:
-    print("Die Zufallszahlenliste ist refolgreich erstellt worden!")
+    print("Die Zufallszahlenliste ist erfolgreich erstellt worden!")
